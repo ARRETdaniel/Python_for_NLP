@@ -1,0 +1,19 @@
+# #+title: NLP
+#+author: Daniel Terra Gomes
+
+#+caption: NLP
+[[https://img.shields.io/badge/PRs-welcome-brightgreen.svg]]
+
+Instituto de Ciências Matemáticas e de Computação - USP. *Python para Processamento de Linguagem Natural: Edição Comemorativa dos 50 anos do ICMC*!
+
+** About this Course?
+Além de introduzir brevemente os conceitos básicos de Processamento de Linguagem Natural (PLN) necessários para o andamento do curso, apresentar o conteúdo essencial da linguagem de programação Python e os pacotes especializados normalmente utilizados em PLN, em especial, os pacotes NLTK e spaCy, assim como algumas aplicações simples. Assume-se que o aluno do curso tem conhecimentos básicos de algoritmos e de programação. O curso será inteiramente virtual
+
+SKILLS YOU WILL GAIN:
+
+- Python
+- NLP
+- Machine Learning
+
+** Course on USP
+- [[https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550400519&cod_edicao=21001&numseqofeedi=1][NLP Course]]
