@@ -4,7 +4,7 @@
 #+caption: NLP
 [[https://img.shields.io/badge/PRs-welcome-brightgreen.svg]]
 
-*Python para Processamento de Linguagem Natural
+* Python para Processamento de Linguagem Natural
 
 Instituto de Ciências Matemáticas e de Computação - USP. *Python para Processamento de Linguagem Natural: Edição Comemorativa dos 50 anos do ICMC*!
 
