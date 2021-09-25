@@ -16,6 +16,8 @@ SKILLS YOU WILL GAIN:
 - Python
 - NLP
 - Machine Learning
+- NLTK
+- spaCy
 
 ** Course on USP
 - [[https://uspdigital.usp.br/apolo/apoObterCurso?cod_curso=550400519&cod_edicao=21001&numseqofeedi=1][NLP Course]]
